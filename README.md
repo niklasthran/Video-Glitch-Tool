@@ -21,7 +21,7 @@ Example:
 As explained above, the tools use data from two videos and will mix a specified frame type (`I`-, `P`- or `B`-frame, specifying a single letter is enough) from those videos. I found that .avi works best but in theory you could use any format.
 The video will be baked and filed into the repository you previously `cd`'d to.
 
-###### Ideas for future iterations
+##### Ideas for future iterations
 + These three tools could be combined into an all-in-one solution controlled via input arguments.
 + There could be an option that mixes different frame types and not just one for more **chaosss**.
 
