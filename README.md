@@ -1,14 +1,15 @@
-##### Experimental Tools to Produce Glitches in Video
+#### Experimental Tools to Produce Glitches in Video
 
-###### Why?
+##### Why?
 + I like the idea of using video data as material that can be mixed and scrambled around, as it would be physical matter, and I tried to manifest that through the code as well.
 + Initially, I wanted to automate the process of messing with video data in a hexeditor (e.g. Hex Fiend) and in essence this is what the tools are doing.
 + I thought being able to use two (or more?) videos and mix them into each other would bring pretty interesting results.
 + My research in already existing tools might be poor (as it was not really the point of this project) but I have not yet seen other tools that work in the same way.
 
-###### How does it work?
+##### How does it work?
 + I tried to turn this into a commandline tool. It is far from perfect but my idea was that it would make the use easier for everybody, including myself.
 + I decided to make three sort of 'variants' of the tool because all three of them mix the data in different ways.
+
 All three take the same input arguments:
 
 `$ python one_of_the_tools.py file_a file_b frame_type`
