@@ -1,4 +1,4 @@
-## Experimental Tools to Produce Glitches in Video
+## re_pair tools – Experimental Tools to Produce Glitches in Video
 
 ### Why?
 + I like the idea of using video data as material that can be mixed and scrambled around, as it would be physical matter, and I tried to manifest that through the code as well.
@@ -19,7 +19,7 @@ Example:
 `$ python remix_frames.py videoA.avi videoB.avi P`
 
 As explained above, the tools use data from two videos and will mix a specified frame type (`I`-, `P`- or `B`-frame, specifying a single letter is enough) from those videos. I found that .avi works best but in theory you could use any format.
-The video will be baked and filed into the repository you previously `cd`'d to.
+The video will be baked and filed into the repository you would previously `cd`'d to.
 
 ### Ideas for future iterations
 + These three tools could be combined into an all-in-one solution controlled via input arguments.
