@@ -9,7 +9,7 @@
 ###### How does it work?
 + I tried to turn this into a commandline tool. It is far from perfect but my idea was that it would make the use easier for everybody, including myself.
 + I decided to make three sort of 'variants' of the tool because all three of them mix the data in different ways.
-+ All three take the same input arguments:
+All three take the same input arguments:
 
 `$ python one_of_the_tools.py file_a file_b frame_type`
 
