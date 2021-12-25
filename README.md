@@ -10,9 +10,13 @@
 + I tried to turn this into a commandline tool. It is far from perfect but my idea was that it would make the use easier for everybody, including myself.
 + I decided to make three sort of 'variants' of the tool because all three of them mix the data in different ways.
 + All three take the same input arguments:
+
 `$ python one_of_the_tools.py file_a file_b frame_type`
+
 Example:
+
 `$ python remix_frames.py videoA.avi videoB.avi P`
+
 As explained above, the tools use data from two videos and will mix a specified frame type (`I`-, `P`- or `B`-frame, specifying a single letter is enough) from those videos. I found that .avi works best but in theory you could use any format.
 The video will be baked and filed into the repository you previously `cd`'d to.
 
