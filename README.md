@@ -25,7 +25,7 @@ As explained above, the tools use data from two videos and will mix a specified 
 The video will be baked and filed into the repository you would previously `cd`'d to.
 
 ### Tests
-tests/vis001_processed_1.mp4
+https://github.com/niklasthran/re_pair_tools/blob/b69c40b402d9bb057254126629bbdb28502532b9/tests/vis001_processed_1.mp4
 
 ### Ideas for future iterations
 + The tools could be combined into an all-in-one solution controlled via input arguments.
