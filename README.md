@@ -30,3 +30,5 @@ The video will be baked and filed into the repository you would previously `cd`'
 
 Please feel free to use and/or edit those tools as you like – I consider them as 100% open source. It would be awesome to see improvements and/or variations that could produce other interesting glitches and other things that people would come up with.
 I tried my best to comment everything that has been used within the code. Constructive feedback is very much welcome :heart:
+
+This originated from experiments, done in context of [Fabiola Hanna](http://fabiolahanna.com/)'s (Un)Coding Video class at The New School.
