@@ -25,9 +25,7 @@ As explained above, the tools use data from two videos and will mix a specified 
 The video will be baked and filed into the repository you would previously `cd`'d to.
 
 ### Tests
-[![](tests/vis001_processed_1.mp4)]
-[![](tests/vis001_processed_2.mp4)]
-[![](tests/vis001_processed_3.mp4)]
+tests/vis001_processed_1.mp4
 
 ### Ideas for future iterations
 + The tools could be combined into an all-in-one solution controlled via input arguments.
