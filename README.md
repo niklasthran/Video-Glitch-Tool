@@ -1,4 +1,5 @@
 ## Video Glitch Tool
+An experimental tool to produce video glitches
 
 ### Disclaimer
 This is very experimental and did not have the chance for tests on any systems other than macOS yet.
